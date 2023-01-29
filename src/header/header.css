@@ -1,0 +1,267 @@
+  .header{
+    width: 1580px;
+    height: 160px;
+    left: 170px;
+    top: 25px;
+  }
+
+  .header1 {
+    display: flex;
+    padding-top: 26px;
+    padding-left: 170px;
+    padding-right: 170px;
+    /* padding-bottom: 168px; */
+  }
+
+  .header-logo {
+    position: absolute;
+    width: 297px;
+    height: 60px;
+    left: 170px;
+    top: 25px;
+    opacity: 0.75;
+  }
+
+  .working-hours {
+    position: absolute;
+    width: 185px;
+    height: 48px;
+    left: 570px;
+    top: 31px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #000000;
+   }
+
+  .maket-3d {
+    position: absolute;
+    
+    left: 854px;
+    top: 35px;
+    border-color: #E4E4E4; 
+    border-radius: 50%;
+    border-style: solid; 
+    padding: 1px; 
+   }
+
+  .maket-text-3d {
+    position: absolute;
+    width: 211px;
+    height: 21px;
+    left: 919px;
+    top: 49px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #000000;
+   }
+
+  .line-hr {
+    position: absolute;
+    width: 211px;
+    height: 0px;
+    left: 0px;
+    top: 18px;
+
+    border: 1px solid #000000;
+  }
+
+  .set-contacts{
+    position: absolute;
+    width: 275px;
+    height: 64.21px;
+    left: 1206px;
+    top: 27px;
+  }
+  
+  .telephon1{
+    position: absolute;
+    width: 64px;
+    height: 64px;
+    /* left: 1206px; */
+    top: 14px;
+  }
+
+  .telephon-button1 {
+    border-radius: 50%;
+    box-sizing: border-box;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background: #FFFFFF;
+    border: 1.5px solid #319F1C;
+    box-shadow: 0px 0px 12px #319F1C;
+  }
+  .telephon-text {
+    position: absolute;
+    width: 203px;
+    height: 27px;
+    left: 55px; 
+    top: 14px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 22px;
+    line-height: 27px;
+    /* identical to box height */
+
+
+    color: #363130;
+  }
+
+  .telephon2 {
+    position: absolute;
+    left: 75px;
+    top: 47px;
+  }
+
+  .telephon-button2 {
+    border-radius: 50%;
+    border: #fff;
+    background-color: #fff;
+    
+  }
+
+  .telega {
+    position: absolute;
+    left: 120px;
+    top: 49px;
+  }
+
+  .viber {
+    position: absolute;
+    left: 168px;
+    top: 49px;
+  }
+
+
+  .request-a-call{
+    position: absolute;
+    width: 238px;
+    height: 64px;
+    left: 1512px;
+    top: 27px;
+
+  }
+  .request-a-call-button{
+    position: absolute;
+    width: 238px;
+    height: 64px;
+    /* left: 100px; */
+    top: 27px;
+    
+    background: #319F1C;
+    box-shadow: 0px 4px 5px #319F1C;
+    border-radius: 6px;
+    border-color: #319F1C; 
+    
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+
+  }
+
+
+
+  .header2 {
+    display: flex;
+    padding-top: 122px;
+    padding-left: 170px;
+    padding-right: 170px;
+    padding-bottom: 168px;
+    
+  }
+  
+  .nav {
+    text-align: center;
+    background: linear-gradient(90deg, rgba(246, 246, 246, 0) 1.47%, rgba(163, 210, 155, 0.92) 7.25%, #319F1C 14.68%, #309E1B 50.68%, #319F1C 84.33%, rgba(147, 202, 137, 0.79) 91.68%, rgba(246, 246, 246, 0) 99.05%);
+    position: absolute;
+    width: 1580px;
+    height: 64px;
+  }
+
+  .nav-item1{
+    position: absolute;
+    left: 268px;
+    top: 22px; 
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+  }
+  .nav-item2{
+    position: absolute;
+    left: 563px;
+    top: 22px; 
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+  }
+  .nav-item3{
+    position: absolute;
+    left: 797px;
+    top: 22px; 
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+  }
+  .nav-item4{
+    position: absolute;
+    left: 1022px;
+    top: 22px; 
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+  }
+  .nav-item5{
+    position: absolute;
+    left: 1257px;
+    top: 22px; 
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+  }
+   
+
+
+
+
+
+
+
+
+
+
+

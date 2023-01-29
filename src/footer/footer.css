@@ -1,0 +1,275 @@
+.footer{
+    position: absolute;
+    width: 1920px;
+    height: 299px;
+    left: 0px;
+    top: 2689px;
+    background: #363130;
+    }
+
+.header-logo{
+    position: absolute;
+    width: 284px;
+    height: 57px;
+    left: 170px;
+    top: 50px;
+    opacity: 0.75;
+    }
+
+.request-a-call-buttonn{
+    position: absolute;
+    width: 238px;
+    height: 64px;
+    right: 1512px;
+    top: 159px;
+
+    background-image: none; 
+    background: transparent;
+
+    background-color: transparent;
+
+    border: 2px solid #FFFFFF;
+    border-radius: 6px;
+    position: absolute;
+
+
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #FFFFFF;
+    }
+
+.nav-item11{
+    position: absolute;
+    width: 61px;
+    height: 19px;
+    left: 707px;
+    top: 50px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #FFFFFF;
+}
+.nav-item21{
+    position: absolute;
+    width: 61px;
+    height: 19px;
+    left: 707px;
+    top: 89px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #FFFFFF;
+}
+.nav-item31{
+    position: absolute;
+    width: 61px;
+    height: 19px;
+    left: 707px;
+    top: 129px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #FFFFFF;
+
+}
+.nav-item41{
+    position: absolute;
+    width: 139px;
+    height: 19px;
+    left: 707px;
+    top: 168px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #FFFFFF;
+
+}
+.nav-item51{
+    position: absolute;
+    width: 208px;
+    height: 19px;
+    left: 707px;
+    top: 208px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #FFFFFF;
+
+}
+.nav-item61{
+    position: absolute;
+    width: 162px;
+    height: 19px;
+    left: 1109px;
+    top: 50px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #FFFFFF;
+}
+
+.nav-item71{
+    position: absolute;
+    width: 116px;
+    height: 19px;
+    left: 1109px;
+    top: 89px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    font-feature-settings: 'pnum' on, 'lnum' on;
+
+    color: #FFFFFF;
+}
+.nav-item81{
+    position: absolute;
+    width: 43px;
+    height: 19px;
+    left: 1109px;
+    top: 129px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #FFFFFF;
+
+}
+.nav-item91{
+    position: absolute;
+    width: 36px;
+    height: 19px;
+    left: 1109px;
+    top: 168px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #FFFFFF;
+}
+
+.nav-item101{
+    position: absolute;
+    width: 36px;
+    height: 19px;
+    left: 1109px;
+    top: 208px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #FFFFFF;
+}
+
+.p1-footer{
+    position: absolute;
+    width: 237px;
+    height: 42px;
+    left: 1519px;
+    top: 39px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;
+    
+}
+
+.vk{
+    position: absolute;
+    width: 28.46px;
+    height: 16.19px;
+    left: 1520px;
+    top: 101px;
+    
+}
+.inst{
+    position: absolute;
+    width: 23.9px;
+    height: 23.85px;
+    left: 1568.16px;
+    top: 97.15px;
+
+}
+.meta{
+    position: absolute;
+    width: 11.72px;
+    height: 25.17px;
+    left: 1612.06px;
+    top: 95px;
+}
+.youtube{
+    position: absolute;
+    width: 29px;
+    height: 21px;
+    left: 1644px;
+    top: 98px;
+    
+}
+
+.p2-footer{
+    position: absolute;
+    width: 237px;
+    height: 21px;
+    left: 1520px;
+    top: 155px;
+    
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    
+    color: #FFFFFF;
+}
+.logo-white-footer{
+    position: absolute;
+    width: 240px;
+    height: 61px;
+    left: 1512px;
+    top: 175px;
+}
+
